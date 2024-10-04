@@ -19,7 +19,7 @@ app.get("/", (req, res) => {
   const news = [
     {
       title: "Berita 1",
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      content: "folo.",
     },
     {
       title: "Berita 2",
